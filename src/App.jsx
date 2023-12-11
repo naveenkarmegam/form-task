@@ -280,7 +280,7 @@ function App() {
           </form>
         </div>
 
-        <div className="col-lg-6 px-4 py-5">
+        <div className="col-lg-6 table-responsive px-4 py-5">
         <Table tableData={tableData} />
         </div>
       </div>
